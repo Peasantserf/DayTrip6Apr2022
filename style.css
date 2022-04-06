@@ -80,7 +80,7 @@ body.multiple-scenes.mobile #titleBar {
   line-height: 30px;
   padding: 5px;
   background-color: rgb(128,143,107);
-  background-color: rgba(128,143,107,0.7);
+  background-color: rgba(128,143,107,0.8);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -376,8 +376,8 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
   border-radius: 5px;
 
-  background-color: rgb(58,68,84);
-  background-color: rgba(58,68,84,0.8);
+  background-color: rgb(224,20,20);
+  background-color: rgba(224,20,20,0.8);
 
   color: #fff;
 
